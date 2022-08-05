@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7597cecc-ca39-4292-b4ae-a011cc84e2b7" name="Changes" comment="new file">
-      <change afterPath="$PROJECT_DIR$/hw2js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2js/name.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3js/box.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3js/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,10 @@
       <updated>1658512688254</updated>
       <workItem from="1658512690814" duration="14036000" />
       <workItem from="1659194564670" duration="634000" />
-      <workItem from="1659261833447" duration="8471000" />
+      <workItem from="1659261833447" duration="13467000" />
+      <workItem from="1659548703438" duration="1473000" />
+      <workItem from="1659550208735" duration="7426000" />
+      <workItem from="1659719951487" duration="1520000" />
     </task>
     <task id="LOCAL-00001" summary="new file">
       <created>1658688074152</created>
@@ -63,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658688074152</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new file">
+      <created>1659280572595</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659280572595</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
