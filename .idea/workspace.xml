@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7597cecc-ca39-4292-b4ae-a011cc84e2b7" name="Changes" comment="не дороблене">
-      <change afterPath="$PROJECT_DIR$/hm5js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm5js/name.js" afterDir="false" />
+    <list default="true" id="7597cecc-ca39-4292-b4ae-a011cc84e2b7" name="Changes" comment="5">
+      <change afterPath="$PROJECT_DIR$/hm6js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm6js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,15 +37,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +63,8 @@
       <workItem from="1659719951487" duration="2280000" />
       <workItem from="1659779599840" duration="2974000" />
       <workItem from="1659891748995" duration="6736000" />
-      <workItem from="1660755512172" duration="10909000" />
+      <workItem from="1660755512172" duration="11048000" />
+      <workItem from="1660998535449" duration="4894000" />
     </task>
     <task id="LOCAL-00001" summary="new file">
       <created>1658688074152</created>
@@ -92,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659985482871</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="5">
+      <created>1660767120807</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660767120807</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new file" />
     <MESSAGE value="не дороблене" />
-    <option name="LAST_COMMIT_MESSAGE" value="не дороблене" />
+    <MESSAGE value="5" />
+    <option name="LAST_COMMIT_MESSAGE" value="5" />
   </component>
 </project>
